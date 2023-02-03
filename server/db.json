@@ -1,0 +1,345 @@
+[
+    {"id": 1,
+    "Name":"Grand Theft Auto 5",
+    "description":"Grand Theft Auto V is a 2013 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the seventh main entry in the Grand Theft Auto series, following 2008's Grand Theft Auto IV, and the fifteenth instalment overall.",
+    "prize":"3999/-",
+    "rating":"800K+",
+    "downloadsize":"70 GB",
+    "img":"https://images7.alphacoders.com/421/421641.jpg"
+
+    },
+
+
+    {"id": 2,
+    "Name":"The Witcher 3: Wild Hunt",
+    "description":"The Witcher 3: Wild Hunt is a 2015 action role-playing game developed and published by CD Projekt. It is the sequel to the 2011 game The Witcher 2: Assassins of Kings and the third game in The Witcher video game series, played in an open world with a third-person perspective.",
+    "prize":"1999/-",
+    "rating":"100K+",
+    "downloadsize":"20 GB",
+    "img":"https://images4.alphacoders.com/587/587508.png"
+
+    },
+
+    {"id": 3,
+    "Name":"Forza Horizon 5",
+    "description":"Forza Horizon 5 is a 2021 racing video game developed by Playground Games and published by Xbox Game Studios. It is the fifth Forza Horizon title and twelfth main instalment in the Forza series. The game is set in a fictionalised representation of Mexico.",
+    "prize":"699/-",
+    "rating":"108K+",
+    "downloadsize":"75 GB",
+    "img":"https://images8.alphacoders.com/118/1188900.jpg"
+
+    },
+
+
+    {"id": 4,
+    "Name":"World of Warcraft",
+    "description":"World of Warcraft is a massively multiplayer online role-playing game released in 2004 by Blizzard Entertainment.",
+    "prize":"299/-",
+    "rating":"10K+",
+    "downloadsize":"10 GB",
+    "img":"https://images7.alphacoders.com/879/879574.jpg"
+
+    },
+
+    {"id": 5,
+    "Name":"Red Dead Redemption 2",
+    "description":"Red Dead Redemption 2 is a 2018 action-adventure game developed and published by Rockstar Games. The game is the third entry in the Red Dead series and a prequel to the 2010 game Red Dead Redemption",
+    "prize":"999/-",
+    "rating":"150K+",
+    "downloadsize":"20 GB",
+    "img":"https://images.alphacoders.com/849/849018.png"
+
+    },
+
+
+
+    {"id": 6,
+    "Name":"Dwarf Fortress",
+    "description":"Dwarf Fortress is a construction and management simulation and roguelike indie video game created by Bay 12 Games. Available as freeware and in development since 2002, its first alpha version was released in 2006 and received attention for being a two-member project surviving solely on donations",
+    "prize":"199/-",
+    "rating":"10K+",
+    "downloadsize":"58 GB",
+    "img":"https://images6.alphacoders.com/524/524269.png"
+
+    },
+
+
+    {"id": 7,
+    "Name":"Elden Ring",
+    "description":"Elden Ring is a 2022 action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. Directed by Hidetaka Miyazaki with worldbuilding provided by fantasy writer George R. R. Martin, it was released for PlayStation 4, PlayStation 5, Windows, Xbox One, and Xbox Series X/S on February 25.",
+    "prize":"499/-",
+    "rating":"19K+",
+    "downloadsize":"10 GB",
+    "img":"https://images4.alphacoders.com/115/1151249.jpg"
+
+    },
+
+
+    {"id": 8,
+    "Name":"Disco Elysium",
+    "description":"Disco Elysium is a 2019 role-playing video game developed and published by ZA/UM. Inspired by Infinity Engine-era games, particularly Planescape: Torment, the game was written and designed by Estonian novelist Robert Kurvitz and features a distinctive oil painting art style with music by the English band Sea Power",
+    "prize":"979/-",
+    "rating":"1K+",
+    "downloadsize":"15 GB",
+    "img":"https://images6.alphacoders.com/113/1139948.jpg"
+    },
+
+
+    {"id": 9,
+    "Name":"Divinity: Original Sin II",
+    "description":"Divinity: Original Sin II - Definitive Edition. Platform: PC. August 31, 2018. The eagerly anticipated sequel to the award-winning RPG. Gather your party.",
+    "prize":"3799/-",
+    "rating":"108K+",
+    "downloadsize":"16 GB",
+    "img":"https://images.alphacoders.com/871/871331.jpg"
+
+    },
+
+
+
+    {"id": 10,
+    "Name":"Apex Legends",
+    "description":"Apex Legends is a free-to-play battle royale-hero shooter game developed by Respawn Entertainment and published by Electronic Arts. It was released for PlayStation 4, Windows, and Xbox One in February 2019, for Nintendo Switch in March 2021, and for PlayStation 5 and Xbox Series X/S in March 2022.",
+    "prize":"1999/-",
+    "rating":"150K+",
+    "downloadsize":"56 GB",
+    "img":"https://images6.alphacoders.com/992/992280.jpg"
+
+    },
+
+
+
+    {"id": 11,
+    "Name":"Half-Life: Alyx",
+    "description":"Half-Life: Alyx is a 2020 virtual reality first-person shooter game developed and published by Valve. It was released for Windows and Linux with support for most PC-compatible VR headsets. Set five years before Half-Life 2, players control Alyx Vance on a mission to seize a superweapon belonging to the alien Combine.",
+    "prize":"1899/-",
+    "rating":"110K+",
+    "downloadsize":"15 GB",
+    "img":"https://images.alphacoders.com/105/1052854.jpg"
+
+    },
+
+
+
+    {"id": 12,
+    "Name":"BioShock",
+    "description":"BioShock is a 2007 first-person shooter game developed by 2K Boston and 2K Australia, and published by 2K Games.",
+    "prize":"2909/-",
+    "rating":"810K+",
+    "downloadsize":"45 GB",
+    "img":"https://images3.alphacoders.com/114/114869.jpg"
+
+    },
+
+    {"id": 13,
+    "Name":"Age of Empires II",
+    "description":"Age of Empires II: The Age of Kings is a real-time strategy video game developed by Ensemble Studios and published by Microsoft. Released in 1999 for Microsoft Windows and Macintosh, it is the second game in the Age of Empires series.",
+    "prize":"Free",
+    "rating":"10K+",
+    "downloadsize":"51 GB",
+    "img":"https://images2.alphacoders.com/530/530994.jpg"
+
+    },
+
+
+    {"id": 14,
+    "Name":"Quake",
+    "description":"Quake is a first-person shooter game developed by id Software and published by GT Interactive. The first game in the Quake series, it was originally released for MS-DOS, Microsoft Windows and Linux in 1996, followed by Mac OS and Sega Saturn in 1997 and Nintendo 64 in 1998.",
+    "prize":"Free",
+    "rating":"10K+",
+    "downloadsize":"5 GB",
+    "img":"https://images.alphacoders.com/438/43841.jpg"
+
+    },
+
+
+    {"id": 15,
+    "Name":"Metal Gear Solid V: The Phantom Pain",
+    "description":"Metal Gear Solid V: The Phantom Pain is a 2015 stealth game developed by Kojima Productions and published by Konami. Directed, written, and designed by Hideo Kojima, it is the ninth installment in the Metal Gear franchise, following Metal Gear Solid V: Ground Zeroes, a stand-alone prologue released the previous year.",
+    "prize":"499/-",
+    "rating":"170K+",
+    "downloadsize":"55 GB",
+    "img":"https://images7.alphacoders.com/421/421641.jpg"
+
+    },
+
+
+    {"id": 16,
+    "Name":"Portal 2",
+    "description":"Portal 2 is a 2011 puzzle-platform video game developed by Valve for Windows, Mac OS X, Linux, PlayStation 3, and Xbox 360. The digital PC version is distributed online by Valve's Steam service, while all retail editions were distributed by Electronic Arts.",
+    "prize":"Free",
+    "rating":"140K+",
+    "downloadsize":"15 GB",
+    "img":"https://images6.alphacoders.com/483/483285.jpg"
+
+    },
+
+
+    {"id": 17,
+    "Name":"The Elder Scrolls V",
+    "description":"The Elder Scrolls V: Skyrim is an action role-playing video game developed by Bethesda Game Studios and published by Bethesda Softworks.",
+    "prize":"995/-",
+    "rating":"10K+",
+    "downloadsize":"88 GB",
+    "img":"https://images7.alphacoders.com/337/337369.jpg"
+
+    },
+
+
+    {"id": 18,
+    "Name":"Minecraft",
+    "description":"Minecraft is a sandbox game developed by Mojang Studios. The game was created by Markus Notch Persson in the Java programming language.",
+    "prize":"5999/-",
+    "rating":"950K+",
+    "downloadsize":"80 GB",
+    "img":"https://images.alphacoders.com/963/96393.jpg"
+
+    },
+
+
+    {"id": 20,
+    "Name":"Baldur's Gate II: Shadows of Amn",
+    "description":"Baldur's Gate II: Shadows of Amn is a role-playing video game developed by BioWare and published by Interplay Entertainment. It is the sequel to Baldur's Gate and was released for Microsoft Windows in September 2000.",
+    "prize":"Free",
+    "rating":"10K+",
+    "downloadsize":"21 GB",
+    "img":"https://images.alphacoders.com/123/123351.jpg"
+
+    },
+
+
+    {"id": 21,
+    "Name":"Civilization IV",
+    "description":"Civilization IV is a 4X turn-based strategy computer game and the fourth installment of the Civilization series, and designed by Soren Johnson under the direction of Sid Meier and his video game development studio Firaxis Games.",
+    "prize":"Free",
+    "rating":"50K+",
+    "downloadsize":"21 GB",
+    "img":"https://images8.alphacoders.com/398/398023.jpg"
+
+    },
+
+
+    {"id": 22,
+    "Name":"Microsoft Flight Simulator",
+    "description":"Microsoft Flight Simulator is an amateur flight simulator developed by Asobo Studio and published by Xbox Game Studios. It is an entry in the Microsoft Flight Simulator series which began in 1982, and was preceded by Microsoft Flight Simulator X in 2006.",
+     "prize":"1999/-",
+    "rating":"800K+",
+    "downloadsize":"7 GB",
+    "img":"https://images5.alphacoders.com/381/381055.jpg"
+
+    },
+
+
+
+    {"id": 23,
+    "Name":"God of War",
+    "description":"God of War is an action-adventure game developed by Santa Monica Studio and published by Sony Interactive Entertainment. It was released for the PlayStation 4 in April 2018, with a Windows port in January 2022.",
+     "prize":"2999/-",
+    "rating":"850K+",
+    "downloadsize":"8 GB",
+    "img":"https://images7.alphacoders.com/413/413551.png"
+
+    },
+
+
+    {"id": 24,
+    "Name":"Warcraft III: Reign of Chaos",
+    "description":"Warcraft III: Reign of Chaos is a high fantasy real-time strategy computer video game developed and published by Blizzard Entertainment released in July 2002.",
+    "prize":"7999/-",
+    "rating":"50K+",
+    "downloadsize":"5 GB",
+    "img":"https://images4.alphacoders.com/593/593004.jpg"
+
+    },
+
+
+    {"id": 25,
+    "Name":"Crusader Kings III",
+    "description":"Crusader Kings III is a grand strategy role-playing video game set in the Middle Ages, developed by Paradox Development Studio and published by Paradox Interactive as a sequel to Crusader Kings and Crusader Kings II.",
+    "prize":"588/-",
+    "rating":"90K+",
+    "downloadsize":"5 GB",
+    "img":"https://images.alphacoders.com/120/1204968.jpg"
+
+
+    },
+
+
+    {"id": 26,
+    "Name":"Hades",
+    "description":"Hades is a roguelike video game developed and published by Supergiant Games. It was released for Windows, macOS, and Nintendo Switch in September 2020, which followed an early access release in December 2018. It was later released for PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X/S in August 2021.",
+    "prize":"Free",
+    "rating":"100K+",
+    "downloadsize":"8 GB",
+    "img":"https://images5.alphacoders.com/111/1113633.png"
+
+    },
+
+
+
+    {"id": 27,
+    "Name":"Call of Duty 4: Modern Warfare",
+    "description":"Call of Duty 4: Modern Warfare is a 2007 first-person shooter video game developed by Infinity Ward and published by Activision. It is the fourth main installment in the Call of Duty series. The game breaks away from the World War II setting of previous entries and is instead set in modern times.",
+     "prize":"6999/-",
+    "rating":"988K+",
+    "downloadsize":"70 GB",
+    "img":"https://images4.alphacoders.com/289/289956.jpg"
+
+    },
+
+    {"id": 28,
+    "Name":"Destiny 2",
+    "description":"Destiny 2 is the sequel to Destiny and the second game in the Destiny series. The game released on September 6, 2017 for PlayStation 4 and Xbox One and on October 24, 2017 for PC on the Battle.net platform.",
+     "prize":"1999/-",
+    "rating":"105K+",
+    "downloadsize":"55 GB",
+    "img":"https://images5.alphacoders.com/929/929254.png"
+
+    },
+    {"id": 29,
+    "Name":"Most-wanted",
+    "description":"The open-world action in Need for Speed Most Wanted gives you the freedom to drive your way. Hit jumps and shortcuts, switch cars, lie low, or head for terrain that plays to your vehicle's unique strengths. Fight your way past cops and rivals using skill, high-end car tech, and tons of nitrous.",
+     "prize":"1999/-",
+    "rating":"185K+",
+    "downloadsize":"55 GB",
+    "img":"https://images8.alphacoders.com/527/527105.jpg"
+
+    },
+{
+"id":30,
+"Name":"Spider-Man",
+"description":"After Spider-Man made its way to PC, Miles Morales, a Spider-Man in his own right, wasn't far behind. This sequel introduces you to Miles, whose powers are a bit different from Peter, but fundamentally, this jaunt through snowy New York will feel familiar if you've enjoyed the first game. Be aware that for all it's good looks and superhero fun, Miles Morales is a good bit shorter than its predecessor – a good taster for the upcoming Marvel's Spider-Man 2, either way.",
+"prize":"588/-",
+"rating":"300k+",
+"downloadsize":"10GB",
+"img":"https://images3.alphacoders.com/262/262839.jpg"
+
+},
+
+{
+    "id":31,
+    "Name":"GTA VICE CITY",
+    "description":"Grand Theft Auto: Vice City is a 2002 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the fourth main entry in the Grand Theft Auto series, following 2001's Grand Theft Auto III, and the sixth instalment overall.",
+    "prize":"899/-",
+    "rating":"500K+",
+    "downloadsize":"500 MB",
+    "img":"https://images5.alphacoders.com/594/594226.jpg"
+    
+    },
+
+    {
+        "id":32,
+        "Name":"PUBG PC",
+        "description":"PUBG: Battlegrounds is a battle royale game developed by PUBG Studios and published by Krafton. The game, which was inspired by the Japanese film Battle Royale, is based on previous mods created by Brendan PlayerUnknown Greene for other games, and expanded into a standalone game under Greene's creative direction",
+        "prize":"FREE",
+        "rating":"999K+",
+        "downloadsize":"5GB",
+        "img":"https://images4.alphacoders.com/117/1171891.jpg"
+        
+        }
+
+
+    
+]
+
+   
